@@ -1,0 +1,21 @@
+*plugin_name.txt*
+
+			       PLUGIN_NAME.NVIM
+
+							    *plugin_name.nvim*
+
+|plugin_name.nvim| helps you to warm up, practice and improve your typing 
+speed.
+
+				       Type |gO| to see the table of contents.
+
+==============================================================================
+1. TABLE OF CONTENT
+
+- CONTENT                                                        |contentLink|
+
+==============================================================================
+CONTENT
+								 *contentLink*
+
+vim:tw=78:ts=8:ft=help:norl:
