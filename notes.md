@@ -96,3 +96,17 @@ testing file
 mkdir test
 touch test/plugin_name_spec.lua
 ```
+
+## Exposing a function
+
+1. Create an empty table
+2. Add function under the table
+3. Return that table
+
+```lua
+local M = {}
+function M.setup()
+  -- body of the function
+end
+return M
+```
